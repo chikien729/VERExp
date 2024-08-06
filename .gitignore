@@ -89,3 +89,4 @@ coverage.xml
 .mypy_cache/
 data/raw
 data/processed
+raw
